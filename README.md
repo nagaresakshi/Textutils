@@ -1,0 +1,1 @@
+TextUtils is a web application for various text operations. It includes features like converting text to uppercase/lowercase, removing extra spaces, copying text, counting words and characters, and estimating read time. This tool is useful for writers, students, and anyone needing to manipulate text.
